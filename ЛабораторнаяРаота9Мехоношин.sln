@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЛабораторнаяРаота9Мехоношин", "ЛабораторнаяРаота9Мехоношин\ЛабораторнаяРаота9Мехоношин.csproj", "{47FC9CEF-8865-48F3-ADC4-CD7E794A127E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FC9CEF-8865-48F3-ADC4-CD7E794A127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FC9CEF-8865-48F3-ADC4-CD7E794A127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FC9CEF-8865-48F3-ADC4-CD7E794A127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FC9CEF-8865-48F3-ADC4-CD7E794A127E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F611FF9F-0611-4C0D-9559-058B55CAA234}
+	EndGlobalSection
+EndGlobal
